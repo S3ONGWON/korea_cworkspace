@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\While\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23127715-C593-411F-925D-A2C3835192C7}|While\\While.vcxproj|C:\\cworks\\While\\While\\CoffeeMachine.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{23127715-C593-411F-925D-A2C3835192C7}|While\\While.vcxproj|solutionrelative:While\\CoffeeMachine.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23127715-C593-411F-925D-A2C3835192C7}|While\\While.vcxproj|C:\\cworks\\While\\While\\CoffeeMachine2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{23127715-C593-411F-925D-A2C3835192C7}|While\\While.vcxproj|solutionrelative:While\\CoffeeMachine2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoffeeMachine.c",
+              "DocumentMoniker": "C:\\cworks\\While\\While\\CoffeeMachine.c",
+              "RelativeDocumentMoniker": "While\\CoffeeMachine.c",
+              "ToolTip": "C:\\cworks\\While\\While\\CoffeeMachine.c",
+              "RelativeToolTip": "While\\CoffeeMachine.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-29T10:22:39.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoffeeMachine2.c",
+              "DocumentMoniker": "C:\\cworks\\While\\While\\CoffeeMachine2.c",
+              "RelativeDocumentMoniker": "While\\CoffeeMachine2.c",
+              "ToolTip": "C:\\cworks\\While\\While\\CoffeeMachine2.c",
+              "RelativeToolTip": "While\\CoffeeMachine2.c",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-29T10:21:42.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
