@@ -1,2 +1,2 @@
-﻿  ArrayDel.c
-  Arways.vcxproj -> C:\cworks\Arways\x64\Debug\Arrays.exe
+﻿  ArrayTest.c
+C:\cworks\Arways\Arways\ArrayTest.c(31,2): error C2061: 구문 오류: 식별자 'printf'
